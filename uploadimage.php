@@ -27,6 +27,9 @@ if( $qry) {
 
 <!DOCTYPE html>
 <html>
+<head>
+	<a href="https://killerromeo.github.io/import_img/"></a>
+</head>
 <body>
 <!--Make sure to put "enctype="multipart/form-data" inside form tag when uploading files -->
 <form action="" method="post" enctype="multipart/form-data" >
